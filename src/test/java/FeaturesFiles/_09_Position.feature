@@ -28,7 +28,7 @@ Feature: Attestations Functionality
 
     Examples:
       | Position | shortName | newPosition | newshortName |
-      | yeniElf  | Elrond    | Gral        | oldu         |
+      | Eelff    | Eelronddd | Bveed       | Aarwenn      |
 
 
 
